@@ -21,6 +21,7 @@ AlwaysBreakAfterDefinitionReturnType: TopLevel
 AlwaysBreakAfterReturnType: TopLevelDefinitions
 AlwaysBreakBeforeMultilineStrings: true
 AlwaysBreakTemplateDeclarations: Yes
+ArrayInitializerAlignmentStyle: Right
 BinPackArguments: false
 BinPackParameters: false
 BraceWrapping:
